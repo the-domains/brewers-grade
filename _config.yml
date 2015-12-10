@@ -2,6 +2,7 @@ name: Brewers Grade
 favicon: null
 layout_spectrum: 0.25426
 typography_spectrum: 0.80366
+title: Brewers Grade
 cta:
   domain: null
   bucket: null
