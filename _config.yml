@@ -1,7 +1,7 @@
 name: Brewers Grade
 favicon: null
-layout_spectrum: 0.4681286634877324
-typography_spectrum: 0.12736175837926567
+layout_spectrum: 0.25426
+typography_spectrum: 0.80366
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#FAD8D6'
   brandStrength: 0.19440103438682854
   lightness: 0.2513916399329901
-  saturation: 0.6771837493870407
+  saturation: 0.25
   rhythmicContrast: 0.9938380082603544
 purpose: []
